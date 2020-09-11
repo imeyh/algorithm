@@ -21,6 +21,6 @@ int main() {
 
 		cout << dp[n] << "\n";
 	}
-	
+
 	return 0;
 }
