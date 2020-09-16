@@ -24,4 +24,6 @@ int main() {
 	}
 
 	cout << dp[n][k];
+
+	return 0;
 }
